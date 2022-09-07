@@ -1,1 +1,1 @@
-a script that changes the working directory to the user’s home directory.
+solving 0x03-shell_variables_expansions
