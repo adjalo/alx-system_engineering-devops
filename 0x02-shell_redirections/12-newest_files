@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -la >> ls_cwd_conten#!/bin/bash
-ls -t | headt
+ls -t | head
